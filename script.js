@@ -1,4 +1,4 @@
-const app = 'chat';
+const app = 'Chat';
 const VISITS_KEY = 'chat-visits';
 
 const setDimensions = e => {
